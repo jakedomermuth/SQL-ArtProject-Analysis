@@ -1,7 +1,7 @@
 # SQL-ArtProject-Analysis
 
 
-### In this Project, I will be exploring a 7 table dataset to answer questions about the data and gain insights that may be valauable to artists, museums, and consumers of art content.
+### In this Project, I will be exploring a 7-table dataset to answer questions about the data and gain insights that may be valuable to artists, museums, and consumers of art content.
 
 
 ### Museum-Info File:
@@ -9,3 +9,7 @@ In this file, I explore different metrics related to the museum’s hours and av
 
 
 ### Artist-Exploration File:
+
+
+
+This project is still in progress. 
