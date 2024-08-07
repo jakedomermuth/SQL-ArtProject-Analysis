@@ -17,6 +17,5 @@ This part is still in progress
 
 
 #### Assumptions About The Data: 
-Work_id has multiple values which represent multiple copies of the same artwork.<br/>
 Sale_price represents the origal price of the art when it was listed to be sold.<br/>
 Regular_price represents the price that the art was actually sold at.
