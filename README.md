@@ -9,7 +9,14 @@ In this file, I explore different metrics related to the museum’s hours and av
 
 
 ### Artist-Exploration File:
-
-
-
 This project is still in progress. 
+
+
+### Sales-Exploration File:
+This part is still in progress
+
+
+## Assumptions about the Data: 
+Work_id has multiple values which represent multiple copies of the same artwork.
+sale_price represents the origal price of the art when it was listed to be sold.
+regular_price represents the price that the art was actually sold at.
