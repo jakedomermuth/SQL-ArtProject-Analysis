@@ -13,7 +13,7 @@ In this file, I explore metrics pertaining to the individual artist. This includ
 
 
 ## Sales-Exploration File:
-This part is still in progress
+In this project, I explore various metrics related to art sales and artist performance. I started by adding a column named `price_markup` to capture the amount added to the sale price. Next, I identified the painting with the highest price markup. Additionally, I analyzed the number of art pieces originating from each country and compared regular prices to sale prices. I also determined which artist has made the most wealth from art sales and which artist makes the most wealth per piece of art. Furthermore, I examined the total wealth, average wealth, and the number of art pieces categorized by art subject. Finally, I identified the most expensive and least expensive pieces of art. This analysis provides valuable insights into the art market, benefiting collectors, sellers, and enthusiasts by highlighting trends and performance metrics within the industry.
 
 
 #### Assumptions About The Data: 
