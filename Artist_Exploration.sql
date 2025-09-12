@@ -99,7 +99,7 @@ GROUP BY w.artist_id, a.full_name;
 SELECT
 	a.full_name,
 	a.artist_id,
-	COUNT(DISTINCT m.country) num_museums
+	COUNT(DISTINCT m.country) AS num_countries
 FROM work$ w
 	INNER JOIN artist$ a
 	ON a.artist_id = w.artist_id
